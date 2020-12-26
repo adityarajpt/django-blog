@@ -6,3 +6,6 @@ Supports
 - Tags
 - Customize Admin Interface
 - Pagination
+
+
+Open For improvements.
